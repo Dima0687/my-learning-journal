@@ -4,3 +4,6 @@
 [submodule "on-hyperskill/simple-chat-bot-with-java"]
 	path = on-hyperskill/simple-chat-bot-with-java
 	url = git@github.com:Dima0687/simple-chat-bot-with-java.git
+[submodule "on-hyperskill/simple-tic-tac-toe-with-java"]
+	path = on-hyperskill/simple-tic-tac-toe-with-java
+	url = git@github.com:Dima0687/simple-tic-tac-toe-with-java.git

@@ -19,6 +19,7 @@ ___Hello and welcome, this is my journal of the hyperskill projects I've done so
 <a href="https://github.com/Dima0687/cinema-room-manager/tree/main">
 <img src="https://raw.githubusercontent.com/Dima0687/cinema-room-manager/main/cinema_room.png" width=400px /></a>
 </div>
+
 </br>
 
 <div align=center>
@@ -27,4 +28,14 @@ ___Hello and welcome, this is my journal of the hyperskill projects I've done so
 
 <a href="https://github.com/Dima0687/simple-chat-bot-with-java/tree/main">
 <img src="https://raw.githubusercontent.com/Dima0687/simple-chat-bot-with-java/main/simple_chat_bot.png" width=400px /></a>
+</div>
+
+</br>
+
+<div align=center>
+
+[Simple Tic Tac Toe Game](https://github.com/Dima0687/simple-tic-tac-toe-with-java/tree/main)
+
+<a href="https://github.com/Dima0687/simple-tic-tac-toe-with-java/tree/main">
+<img src="https://raw.githubusercontent.com/Dima0687/simple-tic-tac-toe-with-java/main/tic_tac_toe.png" width=400px /></a>
 </div>
