@@ -1,0 +1,3 @@
+[submodule "on-hyperskill/cinema-room-manager"]
+	path = on-hyperskill/cinema-room-manager
+	url = git@github.com:Dima0687/cinema-room-manager.git
