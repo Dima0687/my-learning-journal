@@ -1,3 +1,6 @@
 [submodule "on-hyperskill/cinema-room-manager"]
 	path = on-hyperskill/cinema-room-manager
 	url = git@github.com:Dima0687/cinema-room-manager.git
+[submodule "on-hyperskill/simple-chat-bot-with-java"]
+	path = on-hyperskill/simple-chat-bot-with-java
+	url = git@github.com:Dima0687/simple-chat-bot-with-java.git
