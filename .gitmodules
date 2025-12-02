@@ -10,3 +10,6 @@
 [submodule "on-hyperskill/simple-corner-shop-income-calcutor"]
 	path = on-hyperskill/simple-corner-shop-income-calcutor
 	url = git@github.com:Dima0687/simple-corner-shop-income-calcutor.git
+[submodule "on-hyperskill/last-pencil-with-java"]
+	path = on-hyperskill/last-pencil-with-java
+	url = git@github.com:Dima0687/last-pencil-with-java.git

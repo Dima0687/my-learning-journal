@@ -24,6 +24,16 @@ ___Hello and welcome, this is my journal of the hyperskill projects I've done so
 
 <div align=center>
 
+[Last Pencil](https://github.com/Dima0687/last-pencil-with-java/tree/main)
+
+<a href="https://github.com/Dima0687/last-pencil-with-java/tree/main">
+<img src="https://raw.githubusercontent.com/Dima0687/last-pencil-with-java/main/last_pencil.png" width=400px /></a>
+</div>
+
+</br>
+
+<div align=center>
+
 [Simple Chat Bot](https://github.com/Dima0687/simple-chat-bot-with-java/tree/main)
 
 <a href="https://github.com/Dima0687/simple-chat-bot-with-java/tree/main">
