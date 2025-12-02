@@ -34,8 +34,18 @@ ___Hello and welcome, this is my journal of the hyperskill projects I've done so
 
 <div align=center>
 
+[Simple Corner Shop income calculator](https://github.com/Dima0687/simple-corner-shop-income-calcutor)
+
+<a href="https://github.com/Dima0687/simple-corner-shop-income-calcutor">
+<img src="https://raw.githubusercontent.com/Dima0687/simple-corner-shop-income-calcutor/main/corner_shop.png" width=400px height=400px /></a>
+</div>
+
+</br>
+
+<div align=center>
+
 [Simple Tic Tac Toe Game](https://github.com/Dima0687/simple-tic-tac-toe-with-java/tree/main)
 
 <a href="https://github.com/Dima0687/simple-tic-tac-toe-with-java/tree/main">
-<img src="https://raw.githubusercontent.com/Dima0687/simple-tic-tac-toe-with-java/main/tic_tac_toe.png" width=400px /></a>
+<img src="https://raw.githubusercontent.com/Dima0687/simple-tic-tac-toe-with-java/main/tic_tac_toe.png" width=400px height=500px /></a>
 </div>
