@@ -13,3 +13,6 @@
 [submodule "on-hyperskill/last-pencil-with-java"]
 	path = on-hyperskill/java/last-pencil-with-java
 	url = git@github.com:Dima0687/last-pencil-with-java.git
+[submodule "on-hyperskill/coffee-machine-simulator-with-java"]
+	path = on-hyperskill/java/coffee-machine-simulator-with-java
+	url = git@github.com:Dima0687/coffee-machine-simulator-with-java.git
