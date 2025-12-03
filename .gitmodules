@@ -1,15 +1,15 @@
 [submodule "on-hyperskill/cinema-room-manager"]
-	path = on-hyperskill/cinema-room-manager
+	path = on-hyperskill/java/cinema-room-manager
 	url = git@github.com:Dima0687/cinema-room-manager.git
 [submodule "on-hyperskill/simple-chat-bot-with-java"]
-	path = on-hyperskill/simple-chat-bot-with-java
+	path = on-hyperskill/java/simple-chat-bot-with-java
 	url = git@github.com:Dima0687/simple-chat-bot-with-java.git
 [submodule "on-hyperskill/simple-tic-tac-toe-with-java"]
-	path = on-hyperskill/simple-tic-tac-toe-with-java
+	path = on-hyperskill/java/simple-tic-tac-toe-with-java
 	url = git@github.com:Dima0687/simple-tic-tac-toe-with-java.git
 [submodule "on-hyperskill/simple-corner-shop-income-calcutor"]
-	path = on-hyperskill/simple-corner-shop-income-calcutor
+	path = on-hyperskill/java/simple-corner-shop-income-calculator
 	url = git@github.com:Dima0687/simple-corner-shop-income-calcutor.git
 [submodule "on-hyperskill/last-pencil-with-java"]
-	path = on-hyperskill/last-pencil-with-java
+	path = on-hyperskill/java/last-pencil-with-java
 	url = git@github.com:Dima0687/last-pencil-with-java.git
