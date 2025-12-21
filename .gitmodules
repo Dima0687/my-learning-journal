@@ -16,3 +16,6 @@
 [submodule "on-hyperskill/coffee-machine-simulator-with-java"]
 	path = on-hyperskill/java/coffee-machine-simulator-with-java
 	url = git@github.com:Dima0687/coffee-machine-simulator-with-java.git
+[submodule "on-hyperskill/bulls-and-cows"]
+	path = on-hyperskill/java/bulls-and-cows
+	url = git@github.com:Dima0687/bulls-and-cows.git

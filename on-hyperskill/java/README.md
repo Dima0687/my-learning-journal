@@ -14,6 +14,16 @@ ___Hello and welcome, this is my journal of the hyperskill projects I've done so
 
 <div align=center>
 
+[Bulls and Cows](https://github.com/Dima0687/bulls-and-cows/tree/main)
+
+<a href="https://github.com/Dima0687/bulls-and-cows/tree/main">
+<img src="https://raw.githubusercontent.com/Dima0687/bulls-and-cows/main/bulls_and_cows.png" width=400px /></a>
+</div>
+
+</br>
+
+<div align=center>
+
 [Cinema Room Manager](https://github.com/Dima0687/cinema-room-manager/tree/main)
 
 <a href="https://github.com/Dima0687/cinema-room-manager/tree/main">
