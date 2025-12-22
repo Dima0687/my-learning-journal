@@ -19,3 +19,6 @@
 [submodule "on-hyperskill/bulls-and-cows"]
 	path = on-hyperskill/java/bulls-and-cows
 	url = git@github.com:Dima0687/bulls-and-cows.git
+[submodule "on-hyperskill/java/zookeeper-with-java"]
+	path = on-hyperskill/java/zookeeper-with-java
+	url = git@github.com:Dima0687/zookeeper-with-java.git

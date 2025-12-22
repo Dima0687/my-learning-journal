@@ -79,3 +79,15 @@ ___Hello and welcome, this is my journal of the hyperskill projects I've done so
 <a href="https://github.com/Dima0687/simple-tic-tac-toe-with-java/tree/main">
 <img src="https://raw.githubusercontent.com/Dima0687/simple-tic-tac-toe-with-java/main/tic_tac_toe.png" width=400px height=500px /></a>
 </div>
+
+</br>
+
+<div align=center>
+
+[Zookeeper](https://github.com/Dima0687/zookeeper-with-java/tree/main)
+
+<a href="https://github.com/Dima0687/zookeeper-with-java/tree/main">
+<img src="https://raw.githubusercontent.com/Dima0687/zookeeper-with-java/main/zookeeper.png" width=600px height=500px /></a>
+</div>
+
+</br>
