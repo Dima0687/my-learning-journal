@@ -64,10 +64,10 @@ ___Hello and welcome, this is my journal of the hyperskill projects I've done so
 
 <div align=center>
 
-[Simple Corner Shop income calculator](https://github.com/Dima0687/simple-corner-shop-income-calcutor)
+[Simple Corner Shop income calculator](https://github.com/Dima0687/simple-corner-shop-income-calculator)
 
-<a href="https://github.com/Dima0687/simple-corner-shop-income-calcutor">
-<img src="https://raw.githubusercontent.com/Dima0687/simple-corner-shop-income-calcutor/main/corner_shop.png" width=400px height=400px /></a>
+<a href="https://github.com/Dima0687/simple-corner-shop-income-calculator">
+<img src="https://raw.githubusercontent.com/Dima0687/simple-corner-shop-income-calculator/main/corner_shop.png" width=400px height=400px /></a>
 </div>
 
 </br>
