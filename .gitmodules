@@ -22,3 +22,6 @@
 [submodule "on-hyperskill/java/zookeeper-with-java"]
 	path = on-hyperskill/java/zookeeper-with-java
 	url = git@github.com:Dima0687/zookeeper-with-java.git
+[submodule "on-hyperskill/java/amazing-numbers"]
+	path = on-hyperskill/java/amazing-numbers
+	url = git@github.com:Dima0687/amazing-numbers.git
