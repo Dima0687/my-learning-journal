@@ -34,6 +34,16 @@ ___Hello and welcome, this is my journal of the hyperskill projects I've done so
 
 <div align=center>
 
+[Chuck Norris Cipher Encoder](https://github.com/Dima0687/chuck-norris-cipher-encoder/tree/main)
+
+<a href="https://github.com/Dima0687/chuck-norris-cipher-encoder/tree/main">
+<img src="https://raw.githubusercontent.com/Dima0687/chuck-norris-cipher-encoder/main/chuck_norris_cipher_encoder.png" width=400px /></a>
+</div>
+
+</br>
+
+<div align=center>
+
 [Cinema Room Manager](https://github.com/Dima0687/cinema-room-manager/tree/main)
 
 <a href="https://github.com/Dima0687/cinema-room-manager/tree/main">

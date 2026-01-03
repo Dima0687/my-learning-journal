@@ -25,3 +25,6 @@
 [submodule "on-hyperskill/java/amazing-numbers"]
 	path = on-hyperskill/java/amazing-numbers
 	url = git@github.com:Dima0687/amazing-numbers.git
+[submodule "on-hyperskill/java/chuck-norris-cipher-encoder"]
+	path = on-hyperskill/java/chuck-norris-cipher-encoder
+	url = git@github.com:Dima0687/chuck-norris-cipher-encoder.git
