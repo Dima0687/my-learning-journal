@@ -64,6 +64,16 @@ ___Hello and welcome, this is my journal of the hyperskill projects I've done so
 
 <div align=center>
 
+[Connect Four](https://github.com/Dima0687/connect-four-with-java-and-ui/tree/main)
+
+<a href="https://github.com/Dima0687/connect-four-with-java-and-ui/tree/main">
+<img src="https://raw.githubusercontent.com/Dima0687/connect-four-with-java-and-ui/main/connect_four.png" width=400px/></a>
+</div>
+
+</br>
+
+<div align=center>
+
 [Last Pencil](https://github.com/Dima0687/last-pencil-with-java/tree/main)
 
 <a href="https://github.com/Dima0687/last-pencil-with-java/tree/main">

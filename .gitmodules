@@ -28,3 +28,6 @@
 [submodule "on-hyperskill/java/chuck-norris-cipher-encoder"]
 	path = on-hyperskill/java/chuck-norris-cipher-encoder
 	url = git@github.com:Dima0687/chuck-norris-cipher-encoder.git
+[submodule "on-hyperskill/java/connect-four-with-java-and-ui"]
+	path = on-hyperskill/java/connect-four-with-java-and-ui
+	url = git@github.com:Dima0687/connect-four-with-java-and-ui.git
