@@ -31,3 +31,6 @@
 [submodule "on-hyperskill/java/connect-four-with-java-and-ui"]
 	path = on-hyperskill/java/connect-four-with-java-and-ui
 	url = git@github.com:Dima0687/connect-four-with-java-and-ui.git
+[submodule "on-hyperskill/java/calculator-with-java-and-ui"]
+	path = on-hyperskill/java/calculator-with-java-and-ui
+	url = git@github.com:Dima0687/calculator-with-java-and-ui.git
