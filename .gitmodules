@@ -34,3 +34,6 @@
 [submodule "on-hyperskill/java/calculator-with-java-and-ui"]
 	path = on-hyperskill/java/calculator-with-java-and-ui
 	url = git@github.com:Dima0687/calculator-with-java-and-ui.git
+[submodule "on-hyperskill/java/simple-banking-system-with-java"]
+	path = on-hyperskill/java/simple-banking-system-with-java
+	url = git@github.com:Dima0687/simple-banking-system-with-java.git

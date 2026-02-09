@@ -24,6 +24,16 @@ ___Hello and welcome, this is my journal of the hyperskill projects I've done so
 
 <div align=center>
 
+[Banking System](https://github.com/Dima0687/simple-banking-system-with-java/tree/main)
+
+<a href="https://github.com/Dima0687/simple-banking-system-with-java/tree/main">
+<img src="https://raw.githubusercontent.com/Dima0687/simple-banking-system-with-java/main/banking_system.png" width=400px /></a>
+</div>
+
+</br>
+
+<div align=center>
+
 [Bulls and Cows](https://github.com/Dima0687/bulls-and-cows/tree/main)
 
 <a href="https://github.com/Dima0687/bulls-and-cows/tree/main">
