@@ -134,6 +134,16 @@ ___Hello and welcome, this is my journal of the hyperskill projects I've done so
 
 <div align=center>
 
+[Sorting tool with java](https://github.com/Dima0687/sorting-tool-with-java/tree/main)
+
+<a href="https://github.com/Dima0687/sorting-tool-with-java/tree/main">
+<img src="https://raw.githubusercontent.com/Dima0687/sorting-tool-with-java/main/sorting_tool.png" width=400px height=500px /></a>
+</div>
+
+</br>
+
+<div align=center>
+
 [Zookeeper](https://github.com/Dima0687/zookeeper-with-java/tree/main)
 
 <a href="https://github.com/Dima0687/zookeeper-with-java/tree/main">

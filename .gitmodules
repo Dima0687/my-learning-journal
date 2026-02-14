@@ -37,3 +37,6 @@
 [submodule "on-hyperskill/java/simple-banking-system-with-java"]
 	path = on-hyperskill/java/simple-banking-system-with-java
 	url = git@github.com:Dima0687/simple-banking-system-with-java.git
+[submodule "on-hyperskill/java/sorting-tool-with-java"]
+	path = on-hyperskill/java/sorting-tool-with-java
+	url = git@github.com:Dima0687/sorting-tool-with-java.git
