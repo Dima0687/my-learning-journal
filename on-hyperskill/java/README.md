@@ -144,6 +144,16 @@ ___Hello and welcome, this is my journal of the hyperskill projects I've done so
 
 <div align=center>
 
+[Traffic Light Simulator with java](https://github.com/Dima0687/traffic-light-simulator-with-java/tree/main)
+
+<a href="https://github.com/Dima0687/traffic-light-simulator-with-java/tree/main">
+<img src="https://raw.githubusercontent.com/Dima0687/traffic-light-simulator-with-java/main/traffic_light.png" width=400px height=500px /></a>
+</div>
+
+</br>
+
+<div align=center>
+
 [Zookeeper](https://github.com/Dima0687/zookeeper-with-java/tree/main)
 
 <a href="https://github.com/Dima0687/zookeeper-with-java/tree/main">
