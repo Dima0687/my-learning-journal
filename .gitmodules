@@ -43,3 +43,6 @@
 [submodule "on-hyperskill/java/traffic-light-simulator-with-java"]
 	path = on-hyperskill/java/traffic-light-simulator-with-java
 	url = git@github.com:Dima0687/traffic-light-simulator-with-java.git
+[submodule "on-hyperskill/java/maze-runner-with-java"]
+	path = on-hyperskill/java/maze-runner-with-java
+	url = git@github.com:Dima0687/maze-runner-with-java.git
