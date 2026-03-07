@@ -46,3 +46,6 @@
 [submodule "on-hyperskill/java/maze-runner-with-java"]
 	path = on-hyperskill/java/maze-runner-with-java
 	url = git@github.com:Dima0687/maze-runner-with-java.git
+[submodule "on-hyperskill/java/file-storage-server"]
+	path = on-hyperskill/java/file-storage-server
+	url = git@github.com:Dima0687/file-storage-server.git

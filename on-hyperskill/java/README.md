@@ -94,6 +94,16 @@ ___Hello and welcome, this is my journal of the hyperskill projects I've done so
 
 <div align=center>
 
+[File Storage Server](https://github.com/Dima0687/file-storage-server/tree/main)
+
+<a href="https://github.com/Dima0687/file-storage-server/tree/main">
+<img src="https://raw.githubusercontent.com/Dima0687/file-storage-server/main/file_server.png" width=400px/></a>
+</div>
+
+</br>
+
+<div align=center>
+
 [Last Pencil](https://github.com/Dima0687/last-pencil-with-java/tree/main)
 
 <a href="https://github.com/Dima0687/last-pencil-with-java/tree/main">
