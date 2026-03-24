@@ -49,3 +49,6 @@
 [submodule "on-hyperskill/java/file-storage-server"]
 	path = on-hyperskill/java/file-storage-server
 	url = git@github.com:Dima0687/file-storage-server.git
+[submodule "on-hyperskill/java/readability-score"]
+	path = on-hyperskill/java/readability-score
+	url = git@github.com:Dima0687/readability-score.git
