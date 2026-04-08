@@ -52,3 +52,6 @@
 [submodule "on-hyperskill/java/readability-score"]
 	path = on-hyperskill/java/readability-score
 	url = git@github.com:Dima0687/readability-score.git
+[submodule "on-hyperskill/java/flashcards-with-java"]
+	path = on-hyperskill/java/flashcards-with-java
+	url = git@github.com:Dima0687/flashcards-with-java.git

@@ -104,6 +104,16 @@ ___Hello and welcome, this is my journal of the hyperskill projects I've done so
 
 <div align=center>
 
+[Flashcards](https://github.com/Dima0687/flashcards-with-java/tree/main)
+
+<a href="https://github.com/Dima0687/flashcards-with-java/tree/main">
+<img src="https://raw.githubusercontent.com/Dima0687/flashcards-with-java/main/flashcards.png" width=400px/></a>
+</div>
+
+</br>
+
+<div align=center>
+
 [Last Pencil](https://github.com/Dima0687/last-pencil-with-java/tree/main)
 
 <a href="https://github.com/Dima0687/last-pencil-with-java/tree/main">
