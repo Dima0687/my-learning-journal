@@ -55,3 +55,6 @@
 [submodule "on-hyperskill/java/flashcards-with-java"]
 	path = on-hyperskill/java/flashcards-with-java
 	url = git@github.com:Dima0687/flashcards-with-java.git
+[submodule "on-hyperskill/java/simple-search-engine"]
+	path = on-hyperskill/java/simple-search-engine
+	url = git@github.com:Dima0687/simple-search-engine.git

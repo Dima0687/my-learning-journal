@@ -164,6 +164,16 @@ ___Hello and welcome, this is my journal of the hyperskill projects I've done so
 
 <div align=center>
 
+[Simple Search Engine](https://github.com/Dima0687/simple-search-engine/tree/main)
+
+<a href="https://github.com/Dima0687/simple-search-engine/tree/main">
+<img src="https://raw.githubusercontent.com/Dima0687/simple-search-engine/main/simple_search_engine.png" width=400px /></a>
+</div>
+
+</br>
+
+<div align=center>
+
 [Simple Tic Tac Toe Game](https://github.com/Dima0687/simple-tic-tac-toe-with-java/tree/main)
 
 <a href="https://github.com/Dima0687/simple-tic-tac-toe-with-java/tree/main">
