@@ -34,6 +34,16 @@ ___Hello and welcome, this is my journal of the hyperskill projects I've done so
 
 <div align=center>
 
+[Budget Manager](https://github.com/Dima0687/budget-manager-with-java/tree/main)
+
+<a href="https://github.com/Dima0687/budget-manager-with-java/tree/main">
+<img src="https://raw.githubusercontent.com/Dima0687/budget-manager-with-java/main/budget_manager.png" width=400px /></a>
+</div>
+
+</br>
+
+<div align=center>
+
 [Bulls and Cows](https://github.com/Dima0687/bulls-and-cows/tree/main)
 
 <a href="https://github.com/Dima0687/bulls-and-cows/tree/main">
