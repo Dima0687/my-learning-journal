@@ -204,6 +204,16 @@ ___Hello and welcome, this is my journal of the hyperskill projects I've done so
 
 <div align=center>
 
+[Tic Tac Toe with AI](https://github.com/Dima0687/tic-tac-toe-with-java-and-ai/tree/main)
+
+<a href="https://github.com/Dima0687/tic-tac-toe-with-java-and-ai/tree/main">
+<img src="https://raw.githubusercontent.com/Dima0687/tic-tac-toe-with-java-and-ai/main/tic_tac_toe.png" width=400px height=500px /></a>
+</div>
+
+</br>
+
+<div align=center>
+
 [Traffic Light Simulator with java](https://github.com/Dima0687/traffic-light-simulator-with-java/tree/main)
 
 <a href="https://github.com/Dima0687/traffic-light-simulator-with-java/tree/main">
