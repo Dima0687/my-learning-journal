@@ -64,3 +64,6 @@
 [submodule "on-hyperskill/java/tic-tac-toe-with-java-and-ai"]
 	path = on-hyperskill/java/tic-tac-toe-with-java-and-ai
 	url = git@github.com:Dima0687/tic-tac-toe-with-java-and-ai.git
+[submodule "on-hyperskill/java/web-calendar-spring-boot"]
+	path = on-hyperskill/java/web-calendar-spring-boot
+	url = git@github.com:Dima0687/web-calendar-spring-boot.git

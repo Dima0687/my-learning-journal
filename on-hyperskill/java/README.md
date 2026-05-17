@@ -224,10 +224,20 @@ ___Hello and welcome, this is my journal of the hyperskill projects I've done so
 
 <div align=center>
 
+[Web Calendar](https://github.com/Dima0687/web-calendar-spring-boot/tree/main)
+
+<a href="https://github.com/Dima0687/web-calendar-spring-boot/tree/main">
+<img src="https://raw.githubusercontent.com/Dima0687/web-calendar-spring-boot/main/web_calendar.png" width=400px height=500px /></a>
+</div>
+
+<br>
+
+<div align=center>
+
 [Zookeeper](https://github.com/Dima0687/zookeeper-with-java/tree/main)
 
 <a href="https://github.com/Dima0687/zookeeper-with-java/tree/main">
-<img src="https://raw.githubusercontent.com/Dima0687/zookeeper-with-java/main/zookeeper.png" width=600px height=500px /></a>
+<img src="https://raw.githubusercontent.com/Dima0687/zookeeper-with-java/main/zookeeper.png" width=500px height=500px /></a>
 </div>
 
 </br>
