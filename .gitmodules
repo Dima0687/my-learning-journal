@@ -67,3 +67,6 @@
 [submodule "on-hyperskill/java/web-calendar-spring-boot"]
 	path = on-hyperskill/java/web-calendar-spring-boot
 	url = git@github.com:Dima0687/web-calendar-spring-boot.git
+[submodule "on-hyperskill/java/recipe-management-system-spring-boot"]
+	path = on-hyperskill/java/recipe-management-system-spring-boot
+	url = git@github.com:Dima0687/recipe-management-system-spring-boot.git
