@@ -144,6 +144,16 @@ ___Hello and welcome, this is my journal of the hyperskill projects I've done so
 
 <div align=center>
 
+[QR Code Service](https://github.com/Dima0687/qrcode-service-spring-boot/tree/main)
+
+<a href="https://github.com/Dima0687/qrcode-service-spring-boot/tree/main">
+<img src="https://raw.githubusercontent.com/Dima0687/qrcode-service-spring-boot/main/qrcode_service.png" width=400px /></a>
+</div>
+
+</br>
+
+<div align=center>
+
 [Readability Score](https://github.com/Dima0687/readability-score/tree/main)
 
 <a href="https://github.com/Dima0687/readability-score/tree/main">
