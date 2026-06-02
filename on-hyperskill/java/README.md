@@ -104,6 +104,16 @@ ___Hello and welcome, this is my journal of the hyperskill projects I've done so
 
 <div align=center>
 
+[Encryption Decryption Tool](https://github.com/Dima0687/encryption-decryption-with-java/tree/main)
+
+<a href="https://github.com/Dima0687/encryption-decryption-with-java/tree/main">
+<img src="https://raw.githubusercontent.com/Dima0687/encryption-decryption-with-java/main/crypto.png" width=400px/></a>
+</div>
+
+</br>
+
+<div align=center>
+
 [File Storage Server](https://github.com/Dima0687/file-storage-server/tree/main)
 
 <a href="https://github.com/Dima0687/file-storage-server/tree/main">

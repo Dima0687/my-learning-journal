@@ -76,3 +76,6 @@
 [submodule "on-hyperskill/java/qrcode-service-spring-boot"]
 	path = on-hyperskill/java/qrcode-service-spring-boot
 	url = git@github.com:Dima0687/qrcode-service-spring-boot.git
+[submodule "on-hyperskill/java/encryption-decryption-with-java"]
+	path = on-hyperskill/java/encryption-decryption-with-java
+	url = git@github.com:Dima0687/encryption-decryption-with-java.git
