@@ -79,3 +79,6 @@
 [submodule "on-hyperskill/java/encryption-decryption-with-java"]
 	path = on-hyperskill/java/encryption-decryption-with-java
 	url = git@github.com:Dima0687/encryption-decryption-with-java.git
+[submodule "on-hyperskill/java/battleship-with-java"]
+	path = on-hyperskill/java/battleship-with-java
+	url = git@github.com:Dima0687/battleship-with-java.git
