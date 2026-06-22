@@ -82,3 +82,6 @@
 [submodule "on-hyperskill/java/battleship-with-java"]
 	path = on-hyperskill/java/battleship-with-java
 	url = git@github.com:Dima0687/battleship-with-java.git
+[submodule "on-hyperskill/java/json-database-with-java"]
+	path = on-hyperskill/java/json-database-with-java
+	url = git@github.com:Dima0687/json-database-with-java.git
