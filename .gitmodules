@@ -85,3 +85,6 @@
 [submodule "on-hyperskill/java/json-database-with-java"]
 	path = on-hyperskill/java/json-database-with-java
 	url = git@github.com:Dima0687/json-database-with-java.git
+[submodule "on-hyperskill/java/cinema-room-with-spring-boot-and-java"]
+	path = on-hyperskill/java/cinema-room-with-spring-boot-and-java
+	url = git@github.com:Dima0687/cinema-room-with-spring-boot-and-java.git
