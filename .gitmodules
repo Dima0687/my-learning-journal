@@ -88,3 +88,6 @@
 [submodule "on-hyperskill/java/cinema-room-with-spring-boot-and-java"]
 	path = on-hyperskill/java/cinema-room-with-spring-boot-and-java
 	url = git@github.com:Dima0687/cinema-room-with-spring-boot-and-java.git
+[submodule "on-hyperskill/java/transaction-aggregator-with-java"]
+	path = on-hyperskill/java/transaction-aggregator-with-java
+	url = git@github.com:Dima0687/transaction-aggregator-with-java.git

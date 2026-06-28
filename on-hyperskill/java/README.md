@@ -294,6 +294,16 @@ ___Hello and welcome, this is my journal of the hyperskill projects I've done so
 
 <div align=center>
 
+[Transaction Aggregator with java](https://github.com/Dima0687/transaction-aggregator-with-java/tree/main)
+
+<a href="https://github.com/Dima0687/transaction-aggregator-with-java/tree/main">
+<img src="https://raw.githubusercontent.com/Dima0687/transaction-aggregator-with-java/main/transaction_aggregation.png" width=400px height=500px /></a>
+</div>
+
+</br>
+
+<div align=center>
+
 [Web Calendar](https://github.com/Dima0687/web-calendar-spring-boot/tree/main)
 
 <a href="https://github.com/Dima0687/web-calendar-spring-boot/tree/main">
