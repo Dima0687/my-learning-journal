@@ -182,6 +182,17 @@ ___Hello and welcome, this is my journal of the hyperskill projects I've done so
 
 </br>
 
+
+<div align=center>
+
+[Meal Planner](https://github.com/Dima0687/meal-planner-with-java/tree/main)
+
+<a href="https://github.com/Dima0687/meal-planner-with-java/tree/main">
+<img src="https://raw.githubusercontent.com/Dima0687/meal-planner-with-java/main/meal_planner.png" width=400px /></a>
+</div>
+
+</br>
+
 <div align=center>
 
 [QR Code Service](https://github.com/Dima0687/qrcode-service-spring-boot/tree/main)

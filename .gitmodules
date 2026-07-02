@@ -91,3 +91,6 @@
 [submodule "on-hyperskill/java/transaction-aggregator-with-java"]
 	path = on-hyperskill/java/transaction-aggregator-with-java
 	url = git@github.com:Dima0687/transaction-aggregator-with-java.git
+[submodule "on-hyperskill/java/meal-planner-with-java"]
+	path = on-hyperskill/java/meal-planner-with-java
+	url = git@github.com:Dima0687/meal-planner-with-java.git
