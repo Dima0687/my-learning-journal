@@ -94,3 +94,6 @@
 [submodule "on-hyperskill/java/meal-planner-with-java"]
 	path = on-hyperskill/java/meal-planner-with-java
 	url = git@github.com:Dima0687/meal-planner-with-java.git
+[submodule "on-hyperskill/java/customer-feedback-service-with-spring"]
+	path = on-hyperskill/java/customer-feedback-service-with-spring
+	url = git@github.com:Dima0687/customer-feedback-service-with-spring.git
