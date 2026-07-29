@@ -14,6 +14,16 @@ ___Hello and welcome, this is my journal of the hyperskill projects I've done so
 
 <div align=center>
 
+[Account Service](https://github.com/Dima0687/account-service-with-spring/tree/main)
+
+<a href="https://github.com/Dima0687/account-service-with-spring/tree/main">
+<img src="https://raw.githubusercontent.com/Dima0687/account-service-with-spring/main/account_service.png" width=400px /></a>
+</div>
+
+</br>
+
+<div align=center>
+
 [Amazing Numbers](https://github.com/Dima0687/amazing-numbers/tree/main)
 
 <a href="https://github.com/Dima0687/amazing-numbers/tree/main">
