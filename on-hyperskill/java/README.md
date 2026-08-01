@@ -164,6 +164,16 @@ ___Hello and welcome, this is my journal of the hyperskill projects I've done so
 
 <div align=center>
 
+[Fitness Tracker Service](https://github.com/Dima0687/fitness-tracker-service-with-spring/tree/main)
+
+<a href="https://github.com/Dima0687/fitness-tracker-service-with-spring/tree/main">
+<img src="https://raw.githubusercontent.com/Dima0687/fitness-tracker-service-with-spring/main/fitness_tracker_service.png" width=400px/></a>
+</div>
+
+</br>
+
+<div align=center>
+
 [Flashcards](https://github.com/Dima0687/flashcards-with-java/tree/main)
 
 <a href="https://github.com/Dima0687/flashcards-with-java/tree/main">

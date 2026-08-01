@@ -100,3 +100,6 @@
 [submodule "on-hyperskill/java/account-service-with-spring"]
 	path = on-hyperskill/java/account-service-with-spring
 	url = git@github.com:Dima0687/account-service-with-spring.git
+[submodule "on-hyperskill/java/fitness-tracker-service-with-spring"]
+	path = on-hyperskill/java/fitness-tracker-service-with-spring
+	url = git@github.com:Dima0687/fitness-tracker-service-with-spring.git
