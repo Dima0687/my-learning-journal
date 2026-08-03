@@ -103,3 +103,6 @@
 [submodule "on-hyperskill/java/fitness-tracker-service-with-spring"]
 	path = on-hyperskill/java/fitness-tracker-service-with-spring
 	url = git@github.com:Dima0687/fitness-tracker-service-with-spring.git
+[submodule "on-hyperskill/java/web-quiz-engine-with-java"]
+	path = on-hyperskill/java/web-quiz-engine-with-java
+	url = git@github.com:Dima0687/web-quiz-engine-with-java.git
