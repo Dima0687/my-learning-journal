@@ -1,11 +1,11 @@
 <div align=center>
 
-# Projects done on hyperskill
+  # Projects done on hyperskill
 
 
-## 
+  ## 
 
-___Hello and welcome, this is my journal of the hyperskill projects I've done so far.___
+  ___Hello and welcome, this is my journal of the hyperskill projects I've done so far.___
 
 </div>
 
@@ -14,10 +14,20 @@ ___Hello and welcome, this is my journal of the hyperskill projects I've done so
 
 <div align=center>
 
-[Hyperskill Java Course](./java/)
+  [Hyperskill Java Course](./java/)
 
-<a href="./java/">
-<img src="./java/java_class_hyperskill.png" width=400px /></a>
+  <a href="./java/">
+    <img src="./java/java_class_hyperskill.png" width=400px />
+  </a>
+</div>
+
+<div align=center>
+
+  [Hyperskill Android Developer with Kotlin Course](./kotlin/)
+
+  <a href="./kotlin/">
+    <img src="./kotlin/kt_android.png" width=400px />
+  </a>
 </div>
 
 

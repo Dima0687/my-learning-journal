@@ -5,7 +5,8 @@
 
 ## 
 
-___Hello and welcome, this is my journal of the hyperskill projects I've done so far.___
+___Hello and welcome,
+this is my journal of the hyperskill `java / spring boot` projects I've done so far.___
 
 </div>
 
