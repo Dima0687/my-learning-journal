@@ -106,3 +106,6 @@
 [submodule "on-hyperskill/java/web-quiz-engine-with-java"]
 	path = on-hyperskill/java/web-quiz-engine-with-java
 	url = git@github.com:Dima0687/web-quiz-engine-with-java.git
+[submodule "on-hyperskill/kotlin/stopwatch-kotlin-android"]
+	path = on-hyperskill/kotlin/stopwatch-kotlin-android
+	url = git@github.com:Dima0687/stopwatch-kotlin-android.git
