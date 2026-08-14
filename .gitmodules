@@ -109,3 +109,6 @@
 [submodule "on-hyperskill/kotlin/stopwatch-kotlin-android"]
 	path = on-hyperskill/kotlin/stopwatch-kotlin-android
 	url = git@github.com:Dima0687/stopwatch-kotlin-android.git
+[submodule "on-hyperskill/kotlin/tip-calculator-kotlin-android"]
+	path = on-hyperskill/kotlin/tip-calculator-kotlin-android
+	url = git@github.com:Dima0687/tip-calculator-kotlin-android.git

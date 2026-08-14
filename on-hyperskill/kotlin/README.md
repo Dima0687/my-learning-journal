@@ -22,3 +22,13 @@ this is my journal of the hyperskill `kotlin / android` projects I've done so fa
 </div>
 
 </br>
+
+<div align=center>
+
+  [Tip Calculator](https://github.com/Dima0687/tip-calculator-kotlin-android/tree/finished-per-hs)
+
+  <a href="https://github.com/Dima0687/tip-calculator-kotlin-android/tree/finished-per-hs">
+  <img src="https://raw.githubusercontent.com/Dima0687/tip-calculator-kotlin-android/finished-per-hs/images/layout_per_new_main.png" width=400px /></a>
+</div>
+
+</br>
