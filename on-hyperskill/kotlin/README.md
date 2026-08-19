@@ -15,6 +15,16 @@ this is my journal of the hyperskill `kotlin / android` projects I've done so fa
 
 <div align=center>
 
+  [Aquarium](https://github.com/Dima0687/aquarium-kotlin-android/tree/finished-per-hyperskill)
+
+  <a href="https://github.com/Dima0687/aquarium-kotlin-android/tree/finished-per-hyperskill">
+  <img src="https://raw.githubusercontent.com/Dima0687/aquarium-kotlin-android/finished-per-hyperskill/images/modern_design.png" width=400px /></a>
+</div>
+
+</br>
+
+<div align=center>
+
   [Stopwatch With Productivity Timer](https://github.com/Dima0687/stopwatch-kotlin-android/tree/finished-as-per-hyperskill)
 
   <a href="https://github.com/Dima0687/stopwatch-kotlin-android/tree/finished-as-per-hyperskill">
