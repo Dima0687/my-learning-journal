@@ -25,6 +25,16 @@ this is my journal of the hyperskill `kotlin / android` projects I've done so fa
 
 <div align=center>
 
+  [Secret Diary](https://github.com/Dima0687/secret-diary-kotlin-android/tree/finished-per-hyperskill)
+
+  <a href="https://github.com/Dima0687/secret-diary-kotlin-android/tree/finished-per-hyperskill">
+  <img src="https://raw.githubusercontent.com/Dima0687/secret-diary-kotlin-android/finished-per-hyperskill/images/secret_diary_login.png" width=400px /></a>
+</div>
+
+</br>
+
+<div align=center>
+
   [Stopwatch With Productivity Timer](https://github.com/Dima0687/stopwatch-kotlin-android/tree/finished-as-per-hyperskill)
 
   <a href="https://github.com/Dima0687/stopwatch-kotlin-android/tree/finished-as-per-hyperskill">

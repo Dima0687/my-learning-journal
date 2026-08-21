@@ -115,3 +115,6 @@
 [submodule "on-hyperskill/kotlin/aquarium-kotlin-android"]
 	path = on-hyperskill/kotlin/aquarium-kotlin-android
 	url = git@github.com:Dima0687/aquarium-kotlin-android.git
+[submodule "on-hyperskill/kotlin/secret-diary-kotlin-android"]
+	path = on-hyperskill/kotlin/secret-diary-kotlin-android
+	url = git@github.com:Dima0687/secret-diary-kotlin-android.git
